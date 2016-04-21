@@ -1,9 +1,12 @@
+
 As the original dev paused, I'd like to continue for personal use only...
 because I think the GC problem is minor since new version of nodejs...
+
 
 ================== 2016 =======================
 
 
+=============================================== Following is from https://github.com/wanjochan/shadowsocks-nodejs
 
 shadowsocks-nodejs
 ==================
