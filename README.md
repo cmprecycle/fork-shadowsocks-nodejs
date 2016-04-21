@@ -1,5 +1,13 @@
+As the original pause dev, I want to continue by personal use only...
+because I think the GC problem is easily fixed since new version of nodejs...
+
+================== 2016
+
+
+
 shadowsocks-nodejs
 ==================
+
 
 [![NPM version]][NPM] [![Build Status]][Travis CI]
 
